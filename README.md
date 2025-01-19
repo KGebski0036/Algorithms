@@ -7,7 +7,7 @@ I implement algorithms that I learn from one of my books "Grokking Algorithms" a
 <div align="center">
 <b>This repository is not finished yet.</b>
 
-![3%](https://progress-bar.dev/3/?title=Progress)
+![3%](https://progress-bar.xyz/3/)
 </div>
 
 ## Tehnologies
